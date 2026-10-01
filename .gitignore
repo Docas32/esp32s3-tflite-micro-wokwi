@@ -1,0 +1,12 @@
+# Artefatos de build do ESP-IDF
+build/
+
+# Backups de configuracao local
+sdkconfig.old
+
+# Componentes gerenciados pelo IDF Component Manager
+managed_components/
+
+# Configuracoes locais do editor
+.vscode/
+.clangd
